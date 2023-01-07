@@ -47,3 +47,4 @@
 - 관리자 페이지
 ![watcher3](https://user-images.githubusercontent.com/107980297/211124382-497d5dbf-fa15-4a5f-84b9-25d793ac2339.png)
 ## 5. 내역할
+![3차 내역할_1](https://user-images.githubusercontent.com/107980297/211126758-e2aa90b4-5e30-4dca-a4de-d884a06f73a9.png)
